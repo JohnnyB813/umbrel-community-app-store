@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: open-webui-ollama
+name: Open-Webui-Ollama
+tagline: All-in-One Open-Webui + Ollama
+category: ai
+version: "0.0.1"
+port: 3000
+description: >-
+
+  All-in-One Open-Webui + Ollama
+  With Nvidia GPU Acceleration!
+  
+
+developer: JohnnyB813
+website: https://github.com/JohnnyB813
+submitter: Johnny
+submission: https://github.com/
+repo: https://github.com/
+support: https://github.com/
+gallery: []
+releaseNotes: >-
+  Testing...
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
