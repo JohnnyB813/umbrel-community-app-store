@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: johnsapps-immich-ml
+name: Immich-ML
+tagline: Immich-ML
+category: ai
+version: "0.0.1"
+port: 3003
+description: >-
+
+  Immich ML Server
+  
+
+developer: JohnnyB813
+website: https://github.com/JohnnyB813
+submitter: Johnny
+submission: https://github.com/
+repo: https://github.com/
+support: https://github.com/
+gallery: []
+releaseNotes: >-
+  Testing...
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
