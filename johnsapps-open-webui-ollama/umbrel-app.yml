@@ -19,7 +19,7 @@ repo: https://github.com/
 support: https://github.com/
 gallery: []
 releaseNotes: >-
-  Testing...
+  sha256:d602810b919f2282cf8c4a4fb9da7391c47eeb7a60700e38fcdcb5c8805aff46
 dependencies: []
 path: ""
 defaultUsername: ""
