@@ -3,7 +3,7 @@ id: johnsapps-open-webui-ollama
 name: Open-Webui-Ollama
 tagline: All-in-One Open-Webui + Ollama
 category: ai
-version: "0.0.2"
+version: "0.0.3"
 port: 3000
 description: >-
 
@@ -19,7 +19,7 @@ repo: https://github.com/
 support: https://github.com/
 gallery: []
 releaseNotes: >-
-  sha256:d602810b919f2282cf8c4a4fb9da7391c47eeb7a60700e38fcdcb5c8805aff46
+  sha256:d2a1732a7befe9481bcf884bee3b848f89ca51e16e3f0d198358fa0b651159d3
 dependencies: []
 path: ""
 defaultUsername: ""
