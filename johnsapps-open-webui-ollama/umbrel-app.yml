@@ -3,7 +3,7 @@ id: johnsapps-open-webui-ollama
 name: Open-Webui-Ollama
 tagline: All-in-One Open-Webui + Ollama
 category: ai
-version: "0.0.1"
+version: "0.0.2"
 port: 3000
 description: >-
 
