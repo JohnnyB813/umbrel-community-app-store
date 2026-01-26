@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: johnsapps-plex-media-server
+name: Plex Media Server
+tagline: Stream your media library with hardware-accelerated transcoding
+category: media
+version: "0.0.1"
+port: 32400
+description: >-
+
+  Plex Media Server organizes your personal media and streams it anywhere.
+  This app is configured for NVIDIA GPU-accelerated transcoding.
+  
+
+developer: Plex, Inc.
+website: https://www.plex.tv/
+submitter: Johnny
+submission: https://github.com/
+repo: https://github.com/
+support: https://support.plex.tv/
+gallery: []
+releaseNotes: >-
+  Initial release with NVIDIA GPU transcoding support.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
