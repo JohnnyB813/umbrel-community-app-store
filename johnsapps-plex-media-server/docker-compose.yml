@@ -1,13 +1,6 @@
 version: "3.7"
 
 services:
-  app_proxy:
-    environment:
-      # The format here is: <app-id>_<docker-service-name>_1
-      APP_HOST: johnsapps-plex-media-server_plex_1
-      APP_PORT: 32400
-      PROXY_AUTH_ADD: "false"
-
   plex:
     image: plexinc/pms-docker:latest
     restart: always
