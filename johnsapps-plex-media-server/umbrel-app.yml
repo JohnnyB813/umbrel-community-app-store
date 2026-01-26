@@ -3,7 +3,7 @@ id: johnsapps-plex-media-server
 name: Plex Media Server
 tagline: Stream your media library with hardware-accelerated transcoding
 category: media
-version: "0.0.1"
+version: "0.0.2"
 port: 32400
 description: >-
 
