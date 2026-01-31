@@ -3,7 +3,7 @@ version: "3.7"
 services:
 
   immich-machine-learning:
-    image: ghcr.io/immich-app/immich-machine-learning:release-cuda
+    image: ghcr.io/immich-app/immich-machine-learning:release-cuda@sha256:20e07a4fbabce7b3e9cb93cc6423654a6ed77b87b1cbf3843a0f049e3ec70d3d
 
     ports:
       - "3003:3003"
